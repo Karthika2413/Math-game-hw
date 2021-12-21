@@ -1,0 +1,12 @@
+body
+{
+	background: #00BFFF	;
+}
+
+	.login_1 , .login_2
+	{
+		background:#00FA9A;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
